@@ -29,8 +29,8 @@ pip install -r requirements.txt
 # 4. Correr el archivo:
 python supabase_queries.py
 
-📂 Estructura del Proyecto
-.
+📂 Estructura del Proyecto\
+.\
 ├── .env\
 ├── supabase_queries.py\
 ├── requirements.txt\
