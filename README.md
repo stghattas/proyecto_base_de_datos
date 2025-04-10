@@ -20,7 +20,7 @@ git clone https://github.com/tu-usuario/tu-repositorio.git \
 cd tu-repositorio
 
 # 2. Crear entorno virtual (recomendado)
-python -m venv venv
+python -m venv venv \
 venv\Scripts\activate
 
 # 3. Instalar dependencias
