@@ -16,8 +16,8 @@ Este proyecto Python permite gestionar un centro comercial conectado a una base 
 # 🔧 Configuración Inicial
 
 # 1. Clonar el repositorio:
-git clone https://github.com/tu-usuario/tu-repositorio.git \
-cd tu-repositorio
+git clone https://github.com/stghattas/proyecto_base_de_datos \
+cd [ubicacion de tu repositorio]
 
 # 2. Crear entorno virtual (recomendado)
 python -m venv venv \
