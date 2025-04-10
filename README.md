@@ -5,15 +5,15 @@ Proyecto Final en grupo de Base de Datos
 - Bruno Soto
 - Diego Rojas
 
-📊 Sistema de Gestión Comercial con Supabase
+# 📊 Sistema de Gestión Comercial con Supabase
 Este proyecto Python permite gestionar un centro comercial conectado a una base de datos Supabase, con funcionalidades para administrar inventarios, pagos, pedidos y más.
 
-🚀 Requisitos Previos
+# 🚀 Requisitos Previos
 + Python 3.8 o superior
 + Cuenta en Supabase
 + Git (opcional)
 
-🔧 Configuración Inicial
+# 🔧 Configuración Inicial
 
 # 1. Clonar el repositorio:
 git clone https://github.com/tu-usuario/tu-repositorio.git \
